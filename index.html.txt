@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımda</title>
+</head>
+<body>
+    <header>
+        <h1>Hakkımda</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Ben Kimim?</h2>
+            <p>Adınız, uzmanlık alanınız, eğitim geçmişiniz vb. hakkında bilgi buraya.</p>
+        </section>
+        <section>
+            <h2>Resimler</h2>
+            <p>Birkaç kişisel resim buraya.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Benim Eğitim Sitem</p>
+    </footer>
+</body>
+</html>
